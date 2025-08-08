@@ -104,5 +104,9 @@
     "entrypoints": [
       "pages"
     ]
+      "engines": {
+    "node": ">=16",
+    "npm": ">=7"
+    }
   }
 }
